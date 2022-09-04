@@ -1,0 +1,11 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "enable": true,
+            "blockOld": true,
+            "maxActivatedDeviceCount": 0,
+            "maxActivatedUserCount": 1
+        }
+    ]
+}

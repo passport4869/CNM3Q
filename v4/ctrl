@@ -1,0 +1,22 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "enable": true,
+            "enableMac": true,
+            "blockOld": true,
+            "bla2": true,
+            "maxActivatedDeviceCount": 2,
+            "maxActivatedUserCount": 2,
+            "endVer": "2.0.0",
+            "keepAlive": true
+        },
+        {
+            "enable": true,
+            "enableMac": true,
+            "blockOld": true,
+            "maxActivatedDeviceCount": 0,
+            "maxActivatedUserCount": 1
+        }
+    ]
+}
