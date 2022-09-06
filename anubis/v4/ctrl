@@ -1,0 +1,14 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "enable": true,
+            "enableMac": true,
+            "blockOld": true,
+            "blt2": true,
+            "maxActivatedDeviceCount": 2,
+            "maxActivatedUserCount": 1,
+            "keepAlive": true
+        }
+    ]
+}

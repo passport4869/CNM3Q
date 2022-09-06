@@ -1,0 +1,25 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "enable": true,
+            "blockOld": true,
+            "maxActivatedDeviceCount": 1,
+            "maxActivatedUserCount": 0,
+            "beginVer": "1.1.2",
+            "endVer": "1.1.2"
+        },
+        {
+            "enable": false,
+            "blockOld": true,
+            "maxActivatedDeviceCount": 1,
+            "maxActivatedUserCount": 1,
+            "endVer": "89.0.0",
+            "keepAlive": true
+        },
+        {
+            "enable": false,
+            "blockOld": true
+        }
+    ]
+}

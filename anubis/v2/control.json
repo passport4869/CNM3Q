@@ -1,0 +1,12 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "enable": true,
+            "enableMac": true,
+            "blockOld": true,
+            "maxActivatedDeviceCount": 0,
+            "maxActivatedUserCount": 1
+        }
+    ]
+}
