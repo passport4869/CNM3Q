@@ -12,8 +12,8 @@
         {
             "enable": false,
             "blockOld": true,
-            "maxActivatedDeviceCount": 6,
-            "maxActivatedUserCount": 3,
+            "maxActivatedDeviceCount": 5,
+            "maxActivatedUserCount": 2,
             "keepAlive": true
         },
         {

@@ -5,6 +5,6 @@
         "ua": ["*"],
         "filter": ["*"],
         "bp_filter": [],
-        "bp_url": []
+        "bp_url": ["*"]
     }
 }

@@ -5,6 +5,7 @@
             "enable": true,
             "enableMac": true,
             "blockOld": true,
+            "blt2": true,
             "maxActivatedDeviceCount": 1,
             "maxActivatedUserCount": 1,
             "beginVer": "1.2.4",
