@@ -12,6 +12,7 @@
             "enable": true,
             "enableMac": true,
             "blockOld": true,
+            "bla2": true,
             "maxActivatedDeviceCount": 1,
             "maxActivatedUserCount": 0
         }
