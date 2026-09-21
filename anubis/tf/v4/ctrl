@@ -3,22 +3,18 @@
     "data": [
         {
             "enable": true,
+            "enableMac": true,
             "blockOld": true,
             "maxActivatedDeviceCount": 1,
             "maxActivatedUserCount": 0,
-            "beginVer": "1.1.2",
-            "endVer": "1.1.2"
+            "endVer": "2.0.0",
+            "exceptionVers": ["1.2.4"]
         },
         {
             "enable": false,
+            "enableMac": false,
             "blockOld": true,
-            "maxActivatedDeviceCount": 6,
-            "maxActivatedUserCount": 3,
             "keepAlive": true
-        },
-        {
-            "enable": false,
-            "blockOld": true
         }
     ]
 }

@@ -1,0 +1,29 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "enable": true,
+            "enableMac": true,
+            "blockOld": true,
+            "bla2": true,
+            "maxActivatedDeviceCount": 1,
+            "maxActivatedUserCount": 0,
+            "endVer": "1.5.0"
+        },
+        {
+            "enable": true,
+            "enableMac": true,
+            "blockOld": true,
+            "maxActivatedDeviceCount": 1,
+            "maxActivatedUserCount": 1,
+            "endVer": "89.0.0",
+            "exceptionVers": ["1.5.1"],
+            "keepAlive": true
+        },
+        {
+            "enable": false,
+            "blockOld": true,
+            "keepAlive": true
+        }
+    ]
+}
