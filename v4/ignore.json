@@ -114,6 +114,7 @@
             "egist",
             "ign",
             "custom",
+            "feed",
             "login",
             "amazon",
             ".163.",
@@ -211,8 +212,10 @@
             ".cc",
             ".cn",
             ".club",
+            ".top",
             ".ren",
+            ".mobi",
             "/api/users/"
-        ],
+        ]
     }
 }
